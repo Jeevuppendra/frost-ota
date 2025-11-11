@@ -1,5 +1,6 @@
 {
   "version": "1.0.0",
-  "bin": "https://raw.githubusercontent.com/Jeevuppendra/frost-ota/main/frost_1.0.1.bin"
+  "bin": "https://github.com/Jeevuppendra/frost-ota/raw/refs/heads/main/firmware.bin"
 }
+
 
