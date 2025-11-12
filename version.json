@@ -1,7 +1,8 @@
 {
   "version": "1.0.1",
-  "firmware_url": "https://github.com/Jeevuppendra/frost-ota/releases/download/v1.0.1/firmware.bin"
+  "firmware_url": "https://github.com/Jeevuppendra/frost-ota/raw/refs/heads/main/firmware.bin"
 }
+
 
 
 
